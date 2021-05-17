@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://dbUser:H43ivejy820oO8ps@cluster0.cl4zi.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://dbUser:H43ivejy820oO8ps@cluster0.cl4zi.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mf’s want a goth girlfriend but draw the line when it’s pegging night smh"
 }
